@@ -11,9 +11,9 @@
 
 - 💬 Ask me about **HTML, CSS, C, C++, Python**
 
-- 📫 How to reach me **sumirvats003@gmail.com**
+- 📫 Reach me @ **sumirvats003@gmail.com**
 
-- ⚡ Fun fact **I crack jokes no one laughs on :(**
+- ⚡ Fun fact **I crack jokes no one laughs on :(** [See, you didn't laugh]
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
