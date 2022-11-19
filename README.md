@@ -5,7 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sumirvats2003" alt="sumirvats2003" /></a> </p>
 
-- 🌱 I’m currently learning **Flutter, DSA**
+- 😎 Lead @**Google Developer Students Club**, ZHCET
+
+- 🌱 I’m currently learning **Google Cloud, DSA**
 
 - 👨‍💻 All of my projects are available at [https://github.com/SumirVats2003](https://github.com/SumirVats2003)
 
