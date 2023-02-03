@@ -6,7 +6,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sumirvats2003" alt="sumirvats2003" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/sumirvats" target="blank"><img src="https://img.shields.io/twitter/follow/sumirvats?logo=twitter&style=for-the-badge" alt="sumirvats" /></a> </p>
-- 😎 Lead @**Google Developer Students Club**, ZHCET
+- 😎 Lead @<b>Google Developer Students Club</b>, ZHCET
 
 - 🌱 I’m currently learning **Web & App Development, Programming, DSA**
 
