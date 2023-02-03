@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **sumirvats003@gmail.com**
 
-- ⚡ Fun fact **I crack jokes no one laughs on :(**
+- ⚡ Fun fact **Interests, huh? Singing.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
