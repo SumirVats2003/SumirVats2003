@@ -1,11 +1,20 @@
+<head>
+<style>
+*{
+  align:center;
+}
+</style>
+</head>
+
 <h1 align="center">Hi 👋, I'm Sumir Vats</h1>
-<h3 align="center">Code my heart out, programming and App development</h3>
+<h3 align="center">How you look at it is pretty much how you'll see it</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sumirvats2003&label=Profile%20views&color=0e75b6&style=flat" alt="sumirvats2003" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sumirvats2003" alt="sumirvats2003" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/sumirvats" target="blank"><img src="https://img.shields.io/twitter/follow/sumirvats?logo=twitter&style=for-the-badge" alt="sumirvats" /></a> </p>
+- 😎 Lead @**Google Developer Students Club**, ZHCET
 
 - 🌱 I’m currently learning **Web & App Development, Programming, DSA**
 
