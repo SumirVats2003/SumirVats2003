@@ -1,11 +1,3 @@
-<head>
-<style>
-*{
-  align:center;
-}
-</style>
-</head>
-
 <h1 align="center">Hi 👋, I'm Sumir Vats</h1>
 <h3 align="center">How you look at it is pretty much how you'll see it</h3>
 
