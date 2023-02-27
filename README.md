@@ -11,9 +11,9 @@
 
 - 🌱 I’m currently learning **Web & App Development, Programming, DSA**
 
-- 👨‍💻 All of my projects are available at [https://github.com/SumirVats2003](https://github.com/SumirVats2003)
+- 👨‍💻 All of my projects are available at <a href="https://github.com/SumirVats2003">GitHub</a>
 
-- 💬 Ask me about **JavaScript, Python, CSS, HTML, C++**
+- 💬 Ask me about **Flutter, React, JavaScript, Python, CSS, C++**
 
 - 📫 How to reach me **sumirvats003@gmail.com**
 
