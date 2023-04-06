@@ -45,4 +45,8 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sumirvats2003&" alt="sumirvats2003" /></p>
 
+<p align="center">
+  
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=7nm6pjcwga95skj35yc1tjn5x&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)
+  
+</p>
