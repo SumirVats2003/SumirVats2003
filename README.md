@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/sumirvats" target="blank"><img src="https://img.shields.io/twitter/follow/sumirvats?logo=twitter&style=for-the-badge" alt="sumirvats" /></a> </p>
 
-- 😎 Lead @<b>Google Developer Students Club</b>, ZHCET
+- 😎 Mentor @<b>Google Developer Students Club</b>, ZHCET
 
 - 🌱 I’m currently learning **Web & App Development, Programming, DSA**
 
