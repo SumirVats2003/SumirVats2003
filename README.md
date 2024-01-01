@@ -1,7 +1,7 @@
 <p align="center">
   
   ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark) 
-  <h1>Hi 👋, I'm Sumir Vats⚡ </h1>
+  <h1 align="center">Hi 👋, I'm Sumir Vats⚡ </h1>
 
 </p>
 
@@ -13,11 +13,26 @@
 # 💫 About Me
 
 <p align="center">
-<img src="code.png" height=450/>
+  
+```javascript
+const sumir = {
+  name: "Sumir Vats",
+  about: "😎 Mentor @Google Developer Students Club, ZHCET",
+  talksAbout: ["Technology", "Engineering", "Music"],
+  portfolio: "💬 https://sumirvats/netlify.app",
+  email: "sumirvats003@gmail.com",
+};
+
+function life(user) {
+  return `${user.name} wants to 🌱 Live, 👨‍💻 Learn, 📫 Grow`;
+}
+
+life(sumir);
+```
 
 ## 🌐 Socials
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=sumirvats2003&label=Profile%20views&color=0e75b6&style=flat" alt="sumirvats2003" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sumirvats2003&label=Profile%20views&color=0e75b6&style=flat" alt="sumirvats2003" /> </p>
 
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/7996) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100076179461405) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sumirvats003) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sumirvats) [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/Sumir-Vats) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/16510801) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/SumirVats)
 
@@ -37,9 +52,10 @@
 
 # 📊 GitHub Stats:
 
-![](https://github-readme-stats.vercel.app/api?username=SumirVats2003&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true) ![](https://github-readme-stats.vercel.app/api/top-langs/?username=SumirVats2003&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=SumirVats2003&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true) ![](https://github-readme-streak-stats.herokuapp.com/?user=SumirVats2003&theme=tokyonight&hide_border=false)
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=SumirVats2003&theme=tokyonight&hide_border=false)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=SumirVats2003&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
 
 ### 🔝 Top Contributed Repo
 
