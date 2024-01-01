@@ -1,10 +1,10 @@
-<center>
+<p align="center">
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 <h1>Hi 👋, I'm Sumir Vats⚡ </h1>
 
-</center>
+</p>
 
 <p align="center">
   <!-- Typing SVG by SumirVats2003 - https://github.com/SumirVats2003/readme-typing-svg -->
@@ -13,7 +13,7 @@
 
 # 💫 About Me
 
-<center>
+<p align="center">
 <img src="code.png" height=450/>
 
 ## 🌐 Socials
@@ -51,4 +51,4 @@
 <!-- [![](https://visitcount.itsvg.in/api?id=SumirVats2003&icon=0&color=0)](https://visitcount.itsvg.in) -->
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-</center>
+</p>
