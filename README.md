@@ -1,8 +1,7 @@
 <p align="center">
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
-
-<h1>Hi 👋, I'm Sumir Vats⚡ </h1>
+  
+  ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark) 
+  <h1>Hi 👋, I'm Sumir Vats⚡ </h1>
 
 </p>
 
