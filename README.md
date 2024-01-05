@@ -27,10 +27,10 @@ function life(user) {
 
 life(sumir);
 ```
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=sumirvats2003&label=Profile%20views&color=0e75b6&style=flat" alt="sumirvats2003" /> </p>
 
 <h2 align="center"> 🌐 Socials </h2>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=sumirvats2003&label=Profile%20views&color=0e75b6&style=flat" alt="sumirvats2003" /> </p>
 
 <p align="center">
   <a href="https://discord.gg/7996"><img src="https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white" alt="Discord"></a>
