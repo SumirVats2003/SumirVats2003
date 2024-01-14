@@ -217,7 +217,6 @@ life(sumir);
   <a href="https://twitter.com/SumirVats"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white" alt="Twitter"></a>
 </div>
 
-
 <h3 align="center"> 🔝 Top Contributed Repo </h3>
 
 <p align="center">
@@ -228,5 +227,4 @@ life(sumir);
 
 <!-- [![](https://visitcount.itsvg.in/api?id=SumirVats2003&icon=0&color=0)](https://visitcount.itsvg.in) -->
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 </p>
