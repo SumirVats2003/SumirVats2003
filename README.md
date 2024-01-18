@@ -220,7 +220,7 @@ life(sumir);
 <h3 align="center"> 🔝 Top Contributed Repo </h3>
 
 <p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=SumirVats2003&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" alt="GitHub Contributor Stats">
+  <img src="https://github-contributor-stats.vercel.app/api?username=SumirVats2003&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" alt="GitHub Contributor Stats" width="400">
 </p>
 
 ---
