@@ -1,6 +1,6 @@
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Quote" />
-  <h1 align="center">Hi 👋, I'm Sumir Vats⚡ </h1>
+<!--   <h1 align="center">Hi 👋, I'm Sumir Vats⚡ </h1> -->
 </p>
 
 <p align="center">
