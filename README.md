@@ -5,7 +5,9 @@
 
 <p align="center">
   <!-- Typing SVG by SumirVats2003 - https://github.com/SumirVats2003/readme-typing-svg -->
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Source+Code+Pro&duration=4000&pause=1000&center=true&vCenter=true&random=false&width=435&lines=Computer+Engineering+Undergraduate;Flutter+Developer;Full-Stack+Developer;Open+Source+Enthusiast;Devotee+of+the+Temple+of+ViM" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Cascadia+Code&weight=600&size=22&pause=1000&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I+am+Sumir;Software+Engineer;Neovim%2C+BTW" alt="Typing SVG" />
+  </a>
 </p>
 
 # 💫 About Me
