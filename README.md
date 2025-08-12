@@ -225,12 +225,12 @@ life(sumir);
   <a href="https://stackoverflow.com/users/16510801"><img src="https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white" alt="Stack Overflow"></a>
   <a href="https://twitter.com/SumirVats"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white" alt="Twitter"></a>
 </div>
-
+<!--
 <h3 align="center"> 🔝 Top Contributed Repo </h3>
-
 <p align="center">
   <img src="https://github-contributor-stats.vercel.app/api?username=SumirVats2003&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" alt="GitHub Contributor Stats" width="400">
 </p>
+-->
 
 ---
 
