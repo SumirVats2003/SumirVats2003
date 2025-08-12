@@ -17,10 +17,10 @@
 ```javascript
 const sumir = {
   name: "Sumir Vats",
-  about: "😎 Mentor @Google Developer Students Club, ZHCET",
+  about: "😎 Engineering Possibilities, Crafting Software",
   talksAbout: ["Technology", "Engineering", "Music"],
   portfolio: "💬 https://sumirvats/netlify.app",
-  email: "sumirvats003@gmail.com",
+  email: "sumirvats@gmail.com",
 };
 
 function life(user) {
