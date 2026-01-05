@@ -19,7 +19,7 @@ const sumir = {
   name: "Sumir Vats",
   about: "😎 Engineering Possibilities, Crafting Software",
   talksAbout: ["Technology", "Engineering", "Music"],
-  portfolio: "💬 https://sumirvats/netlify.app",
+  portfolio: "💬 https://sumirvats.netlify.app",
   email: "sumirvats@gmail.com",
 };
 
